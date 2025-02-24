@@ -1,0 +1,15 @@
+.app {
+  width: 98vw;
+  background-color: white;
+  height: 95vh;
+  border-radius: 10px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);
+}
+.men {
+  display: flex;
+  flex-grow: 1;
+}
+.chld {
+  flex-grow: 1;
+  padding: 20px;
+}
